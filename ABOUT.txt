@@ -1,0 +1,10 @@
+========================================================================
+                       PROJECT INFORMATION CARD
+========================================================================
+Project Name : JA Translate Hybrid
+Tech Stack   : Flutter 3.x / Dart 3.x / Python 3.x / PowerShell WinRT
+Managed By   : JA Auto Git
+Website      : https://jatechvn.github.io/
+------------------------------------------------------------------------
+Description  : Hộp công cụ dịch thuật lai chuyên sâu, xử lý tệp tài liệu Excel, Word bảo toàn định dạng gốc, dịch chữ và dịch ảnh sử dụng Windows OCR offline.
+========================================================================
